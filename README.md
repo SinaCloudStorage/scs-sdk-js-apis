@@ -1,4 +1,4 @@
-scs-sdk-js-apis
-===============
+# SCS SDK for JavaScript APIs Package
 
-API descriptions for the SCS SDK for JavaScript
+This package contains all of the API definitions used by the
+[scs-sdk-js](https://github.com/SinaCloudStorage/scs-sdk-js) package.

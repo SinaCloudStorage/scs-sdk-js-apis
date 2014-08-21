@@ -1,0 +1,29 @@
+{
+    "name": "scs-sdk-apis",
+    "description": "SCS SDK for JavaScript APIs",
+    "version": "3.1.6",
+    "author": {
+        "name":"Sina Cloud Storage",
+        "email":"",
+        "url":"http://open.sinastorage.com/"
+    },
+    "homepage": "https://github.com/SinaCloudStorage/scs-sdk-js",
+    "contributors": [
+      "Loren Segal <smcz@qq.com>"
+    ],
+    "repository": {
+        "type" : "git",
+        "url": "git://github.com/SinaCloudStorage/scs-sdk-js-apis"
+    },
+   "bugs" : {
+        "url" : "http://github.com/SinaCloudStorage/scs-sdk-js-apis/issues",
+        "mail" : ""
+    },
+    "licenses": [{
+        "type": "Apache 2.0",
+        "url": "http://github.com/SinaCloudStorage/scs-sdk-js-apis/raw/master/LICENSE.txt"
+    }],
+    "keywords": [
+        "api", "sina","scs","sdk"
+    ]
+}
